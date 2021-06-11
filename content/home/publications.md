@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 90
 
 title: Recent Publications
 subtitle: ''
@@ -24,7 +24,6 @@ content:
   # Filter on criteria
   filters:
     tag: ''
-    url: https://www.coursera.org
     category: ''
     publication_type: ''
     author: ''
